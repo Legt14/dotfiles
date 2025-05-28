@@ -1,0 +1,10 @@
+[window]
+# decorations = "None"
+opacity = 0.8
+blur = true
+startup_mode = "Windowed"
+dynamic_title = false
+title = "You are the best dev"
+
+[font]
+normal = {family = "Hack Nerd Font", style = "Regular"}
