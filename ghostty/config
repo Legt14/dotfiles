@@ -52,3 +52,12 @@ term = xterm-256color
 # --- Blur (GNOME via Blur my Shell) ---
 background-opacity = 0.75
 background-opacity-cells = true
+
+# --- Look ---
+theme = catppuccin-mocha
+font-family = GeistMono Nerd Font
+font-size = 12
+window-padding-x = 12
+window-padding-y = 10
+window-padding-balance = true
+gtk-titlebar = false
